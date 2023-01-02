@@ -1,0 +1,5 @@
+{
+  "code-runner.defaultLanguage": "javascript",
+  "code-runner.runInTerminal": true,
+  "code-runner.clearPreviousOutput": true
+}
