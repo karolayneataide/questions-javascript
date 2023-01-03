@@ -1,4 +1,4 @@
 const prompt = require("prompt-sync")();
 
-const number = Number(prompt("Digite um número real: "));
-console.log(number);
+const numero = Number(prompt("Digite um número real: "));
+console.log(numero);

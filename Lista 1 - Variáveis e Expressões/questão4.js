@@ -1,4 +1,4 @@
 const prompt = require("prompt-sync")();
 
-const number = Math.sqrt(prompt("Digite um número real: "));
-console.log(number);
+const numero = Math.sqrt(prompt("Digite um número real: "));
+console.log(numero);
