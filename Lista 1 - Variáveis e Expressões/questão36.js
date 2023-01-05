@@ -5,8 +5,8 @@ console.log(
 );
 
 const altura = Number(prompt("Digite o valor da altura: "));
-
 const raio = Number(prompt("Digite o Valor do raio: "));
+const pi = 3.141592;
 
-const cilindro = 3.141592 * raio * raio * altura;
+const cilindro = pi * raio * raio * altura;
 console.log(cilindro);
