@@ -6,4 +6,5 @@ const produto = Number(prompt("Digite o valor do produto: "));
 const desconto = 0.88;
 
 const produtoComDesconto = produto * desconto;
+
 console.log(produtoComDesconto);

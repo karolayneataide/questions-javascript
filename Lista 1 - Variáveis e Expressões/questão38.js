@@ -8,4 +8,5 @@ const salario = Number(prompt("Digite o salário de um funcionário: "));
 const aumento = 1.25;
 
 const salarioComAumento = salario * aumento;
+
 console.log(salarioComAumento);

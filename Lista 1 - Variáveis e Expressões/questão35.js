@@ -6,4 +6,5 @@ const a = Number(prompt("Digite o Valor de A: "));
 const b = Number(prompt("Digite o Valor de B: "));
 
 const hipotenusa = Math.sqrt(a * a + b * b);
+
 console.log(hipotenusa);

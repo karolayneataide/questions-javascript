@@ -5,4 +5,5 @@ const lado = Number(
 );
 
 const area = lado * lado;
+
 console.log(area);

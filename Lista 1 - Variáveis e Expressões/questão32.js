@@ -9,4 +9,5 @@ const antecessorDobro = numero * 3 + 1;
 const sucessorTriplo = numero * 2 - 1;
 
 const resultado = sucessorTriplo + antecessorDobro;
+
 console.log(resultado);

@@ -6,4 +6,5 @@ const raio = Number(
 const pi = 3.141596;
 
 const area = pi * raio * raio;
+
 console.log(area);
